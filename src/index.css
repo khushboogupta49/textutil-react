@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: aqua; */
+    
+    }
+    .heading{
+    
+      color: rgb(94, 62, 13);
+      text-align: center;
+      text-transform: capitalize;
+      font-weight: bold;
+      margin: 30px 0;
+      font-family: 'Josefin Sans', sans-serif;
+    }
+    /* .heading_style{
+    
+      color: rgb(94, 62, 13);
+      text-align: center;
+      text-transform: capitalize;
+      font-weight: bold;
+      margin: 50px 0;
+      font-family: 'Josefin Sans', sans-serif;
+      letter-spacing: 2px;
+      color: aliceblue;
+      background-color: rgb(87, 165, 165);
+      margin-bottom: 30px;
+    }
+
+    .cards{
+      width: 100%;
+      height: auto;
+    } */
+
+    .navbar-nav{
+      text-align: center;
+    }
+    .navbar-nav a{
+      text-align: center;
+    }
+    .img_div{
+    display: flex;
+    justify-content: center;
+
+      
+    }
+    
+    .img_div img{
+
+      width:250px;
+      height: 300px;
+      
+      
+    } 
